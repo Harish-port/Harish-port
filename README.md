@@ -42,9 +42,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harish-port&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Harish's GitHub Stats">
-<span>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-port&count_private=true&theme=radical" alt="Harish-port" />
-  </span>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-port&count_private=true&theme=radical" alt="Harish-port" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-port&count_private=true&theme=radical" alt="Harish-port" />
 
 ----
