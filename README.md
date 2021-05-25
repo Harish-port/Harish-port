@@ -18,9 +18,9 @@ A **WEB DEVELOPER** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working in a start up as a software developer.
+- 👨🏽‍💻 I’m currently working in a start up as a software developer mainly on <b>ReactJs</b>.
 - 🌱 I’m currently exploring backend with <b>Node.js</b> and <b>MySQL</b> as Database. 
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in front end web development and i love <b>ReactJs</b>.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [harish.sq@gmail.com](mailto:harish.sq@gmail.com).
 
