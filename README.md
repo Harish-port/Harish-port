@@ -38,7 +38,8 @@ A **WEB DEVELOPER** ***Enthusiast*** 🚀.
 
 ----
 Credit: [Harish-port](https://github.com/Harish-port)
-Visits: (https://komarev.com/ghpvc/Harish-port)
+Visits: ![](https://komarev.com/ghpvc/?username=Harish-port&color=dc143c)
+
 
 
 
