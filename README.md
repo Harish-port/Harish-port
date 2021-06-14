@@ -32,8 +32,8 @@ A **WEB DEVELOPER** ***Enthusiast*** 🚀.
 <img title="HTML5" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-html-5.svg" width="50px"> <img title="CSS3" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-css3.svg" width="50px"> <img title="Bootstrap 4" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-bootstrap.svg" width="50px"><img  title="Javasript" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-javascript-logo.svg" width="50px"><img title="React Js" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-react.svg" width="50px"><img title="Node Js" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-nodejs.svg" width="50px"><img title="Git" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-git.svg" width="50px"><img title="Git"  src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/icons8-github.svg" width="50px">
 
 <div style="display:flex">
-<img  src="https://github-readme-stats.vercel.app/api?username=Harish-port&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Harish's GitHub Stats" width="500"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-port&count_private=true&theme=radical" alt="Harish-port" width="500"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Harish-port&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Harish's GitHub Stats" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-port&count_private=true&theme=radical" alt="Harish-port" width="400"/>
 <div/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-port&count_private=true&theme=radical" alt="Harish-port" />
 
