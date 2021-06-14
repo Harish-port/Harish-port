@@ -22,7 +22,7 @@ A **WEB DEVELOPER** ***Enthusiast*** 🚀.
 - 🌱 I’m currently exploring backend with <b>Node.js</b> and <b>MySQL</b> as Database. 
 - 🤔 My interest lies in front end web development and i love <b>ReactJs</b>.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [harish.sq@gmail.com](mailto:harish.sq@gmail.com).
+- 📫 Email me at [harish.sq@gmail.com](mailto:harish.port25@gmail.com).
 
 
 
