@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Harish!</h3>
+<!-- <h3 title="hehehe"> Hey 👋, I'm Harish!</h3>
 
 <a href="https://www.linkedin.com/in/harish-s-906340175/">
   <img align="left" title="Linkedin Profile" alt="Harish's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -23,6 +23,7 @@ A **WEB DEVELOPER** ***Enthusiast*** 🚀.
 - 🤔 My interest lies in front end web development and i love <b>ReactJs</b>.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [harish.port25@gmail.com](mailto:harish.port25@gmail.com).
+  -->
 
 
 
