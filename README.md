@@ -39,7 +39,6 @@ A **WEB DEVELOPER** ***Enthusiast*** 🚀.
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-port&count_private=true&theme=radical" alt="Harish-port" /> -->
 
 ----
-Credit: [Harish-port](https://github.com/Harish-port)
 
 
 
