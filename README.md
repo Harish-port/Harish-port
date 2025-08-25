@@ -1,14 +1,15 @@
-# 👋 Hi, I’m Harish  
+👋 Hi, I'm Harish!  
+Frontend Engineer with 6+ years of experience building scalable web apps.  
 
-💻 Frontend Developer | React.js | Node.js  
-🚀 Currently exploring **Docker & Kubernetes**  
+💻 Tech I work with:  
+- React.js, Redux Toolkit, TypeScript, JavaScript  
+- Node.js, Express.js, MongoDB  
+- Docker, Kubernetes, GitHub Actions  
 
-### 🔧 Tech I Work With
-React.js | Redux Toolkit | Node.js | JavaScript (ES6+) | Docker | Kubernetes (learning)
+📌 Interests:  
+- Building interactive dashboards  
+- Performance optimization  
+- DevOps for frontend apps  
 
-### 📌 Current Focus
-- Docker + Kubernetes project with React & Node.js  
-- Strengthening testing skills with Jest & React Testing Library  
-
-### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/harish-s-906340175/) • [Email](mailto:harish.inboxme@gmail.com)  
+🚀 Currently learning:  
+- Docker & Kubernetes (deploying React + Node.js apps)  
