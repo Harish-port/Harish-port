@@ -31,7 +31,7 @@ Testing: Jest, React Testing Library
  coming soon)
 
 📫 Let’s Connect
-<a href="https://www.linkedin.com/in/harish-s-906340175/"> <img align="left" title="LinkedIn Profile" alt="Harish's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:harish.port25@gmail.com"> <img align="left" title="Email" alt="Harish's Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a> <br/><br/>
+<a href="https://www.linkedin.com/in/harish-s-906340175/"> <img align="left" title="LinkedIn Profile" alt="Harish's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="mailto:harish.inboxme@gmail.com"> <img align="left" title="Email" alt="Harish's Email" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> </a> <br/><br/>
 📊 GitHub Stats
 <div style="display:flex;gap:10px;"> <img src="https://github-readme-stats.vercel.app/api?username=Harish-port&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Harish's GitHub Stats" width="400"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-port&count_private=true&theme=radical" alt="Harish's GitHub Streak" width="400"/> </div>
 
