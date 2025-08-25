@@ -1,5 +1,3 @@
-👋 Hi, I’m Harish!
-
 💻 Frontend Developer | React.js Enthusiast | Exploring DevOps (Docker & Kubernetes)
 
 I have 6+ years of experience building scalable, user-friendly web applications.
