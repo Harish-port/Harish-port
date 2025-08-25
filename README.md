@@ -1,15 +1,15 @@
-👋 Hi, I'm Harish!  
-Frontend Engineer with 6+ years of experience building scalable web apps.  
+👋 Hi, I'm Harish  
 
-💻 Tech I work with:  
-- React.js, Redux Toolkit, TypeScript, JavaScript  
-- Node.js, Express.js, MongoDB  
-- Docker, Kubernetes, GitHub Actions  
+💻 Senior Frontend Engineer with 6+ years of experience building **scalable React.js applications** in healthcare, compliance, and enterprise domains.  
 
-📌 Interests:  
-- Building interactive dashboards  
-- Performance optimization  
-- DevOps for frontend apps  
+⚡ What I do:  
+- Develop **data-heavy dashboards** with React, Redux Toolkit, and AG Grid  
+- Create **reusable UI components** with TypeScript & modern design patterns  
+- Optimize applications for **performance, accessibility, and usability**  
+- Integrate CI/CD pipelines with **GitHub Actions, Docker, and Kubernetes**  
 
-🚀 Currently learning:  
-- Docker & Kubernetes (deploying React + Node.js apps)  
+📌 What I'm exploring now:  
+- Deploying full-stack apps (React + Node.js) with **Docker & Kubernetes**  
+- Writing **robust unit tests** in React using Jest & RTL  
+
+🚀 I enjoy turning complex business workflows into **intuitive, high-performance UIs**.
